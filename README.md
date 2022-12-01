@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Lola Garcia</h1>
-<h3 align="center">A bootcamp student of frontend and backend web developing in Málaga (Spain)</h3>
+<h3 align="center">Junior Full Stack Web Developer student in Málaga (Spain)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
