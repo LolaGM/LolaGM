@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
+![2 - copia](https://user-images.githubusercontent.com/116545851/205349795-1a5b0331-0cdd-46eb-a4b7-278e6339a9ed.png)
+
 - 🔭 I’m currently working on [basic CRUD project in PHP](https://github.com/Beadeavila/SquidStellar)
 
 - 🌱 I’m currently learning **PHP and MySQL language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM)
-
+- 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM) 
 - 📫 How to reach me **canal030w@gmail.com**
 
 - ⚡ Fun fact **I am a superfan of Spanish food**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
