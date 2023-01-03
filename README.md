@@ -5,9 +5,9 @@
 
 ![2 - copia](https://user-images.githubusercontent.com/116545851/205349795-1a5b0331-0cdd-46eb-a4b7-278e6339a9ed.png)
 
-- 🔭 I’m currently working on [basic CRUD project in PHP](https://github.com/Beadeavila/SquidStellar)
+- 🔭 I’m currently working on a [Laravel with CRUD in PHP]([https://github.com/CarmenGP/bountyHunters)])
 
-- 🌱 I’m currently learning **PHP and MySQL language**
+- 🌱 I’m currently learning **Laravel with PHP and MySQL language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM) 
 - 📫 How to reach me **canal030w@gmail.com**
