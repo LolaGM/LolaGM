@@ -5,9 +5,9 @@
 
 ![2 - copia](https://user-images.githubusercontent.com/116545851/205349795-1a5b0331-0cdd-46eb-a4b7-278e6339a9ed.png)
 
-- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.Working with Agile Methodology with SCRUM
-
-- 🌱 I’m currently learning **Laravel with PHP and MySQL language**
+- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.
+-  📖 Working with Agile Methodology with SCRUM
+- 📄 I’m currently learning **Laravel with PHP and MySQL language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM) 
 
@@ -67,8 +67,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LolaGM&hide_border=true&border_radius=4.6" alt="LolaGM stats" /></p>
 
 <br/>  
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LolaGM&&style=flat-square" align="center" />
