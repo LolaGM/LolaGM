@@ -5,7 +5,7 @@
 
 ![2 - copia](https://user-images.githubusercontent.com/116545851/205349795-1a5b0331-0cdd-46eb-a4b7-278e6339a9ed.png)
 
-- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.
+- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.At the same time, I'm studying on an online Bootcamp called OpenBootcamp 
 -  📖 Working with Agile Methodology with SCRUM
 - 📄 I’m currently learning **Laravel with PHP and MySQL language**
 
