@@ -1,11 +1,16 @@
 <h1 align="center">Hello!👋, I'm Lola Garcia</h1>
 <h3 align="center">Junior Full Stack Web Developer student in Málaga (Spain)</h3>
 
+<p align="center"> <img width="20%" src="https://user-images.githubusercontent.com/116545851/218501169-142bd5b8-10e5-47c2-85ec-6e107fac16d2.jpg" alt="lolaGM profile picture" /> </p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
 
-- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.At the same time, I'm studying on an online Bootcamp called OpenBootcamp 
--  📖 Working with Agile Methodology with SCRUM
+- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.
+- 💻 At the same time, I'm studying on an online Bootcamp called OpenBootcamp 
+- 📖 Working with Agile Methodology with SCRUM
 - 📄 I’m currently learning **Laravel with PHP and MySQL language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM) 
