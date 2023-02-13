@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
-![2 - copia](https://user-images.githubusercontent.com/116545851/205349795-1a5b0331-0cdd-46eb-a4b7-278e6339a9ed.png)
 
 - 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.At the same time, I'm studying on an online Bootcamp called OpenBootcamp 
 -  📖 Working with Agile Methodology with SCRUM
