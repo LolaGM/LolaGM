@@ -3,8 +3,6 @@
 
 <p align="center"> <img width="20%" src="https://user-images.githubusercontent.com/116545851/218501169-142bd5b8-10e5-47c2-85ec-6e107fac16d2.jpg" alt="lolaGM profile picture" /> </p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
 
