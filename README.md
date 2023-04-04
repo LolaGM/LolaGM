@@ -1,19 +1,17 @@
 <h1 align="center">Hello!👋, I'm Lola Garcia</h1>
-<h3 align="center">Junior Full Stack Web Developer student in Málaga (Spain)</h3>
+<h3 align="center">Junior Full Stack Web Developer in Málaga (Spain)</h3>
 
 <p align="center"> <img width="20%" src="https://user-images.githubusercontent.com/116545851/218501169-142bd5b8-10e5-47c2-85ec-6e107fac16d2.jpg" alt="lolaGM profile picture" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
 
-- 🔭 I’m currently studying on an online Full Stack Web Developer Bootcamp for women with 25 classmates.
-- 💻 At the same time, I'm studying on an online Bootcamp called OpenBootcamp 
-- 📖 Working with Agile Methodology with SCRUM
-- 📄 I’m currently learning **VUE in frontend plus Laravel with PHP and MySQL language for the backend **
-
-- 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM) 
-
-- ⚡ Fun fact **I am a superfan of Spanish food**
+- 🔭 I finished an online **Full Stack Web Developer** Bootcamp for women.
+- 💻 At the same time, I'm studying on an online Bootcamp called OpenBootcamp
+- 📄  Also I'm doing two different online courses on Coursera:Front End Development and UX/UI Design
+- 📖 Worked with **Agile Methodology with SCRUM**
+- 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM)
+- ⚡ Fun fact I am a superfan of Spanish food
 
 ## Connect with me  
 <div align="left">
@@ -26,52 +24,50 @@
 </div>  
 
 ## My Skills Set  
-<table><tr><td valign="top" width="25%">
-
 ### Frontend  
-<div align="center">  
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</div>
+<p align="left">
+ <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
+ </p>
  
-</td>
-<td valign="top" width="25%">
-
+ <p>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></img>
+  <img src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></img>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></img>
+ </p>
+ 
+ <p>
+  <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img> 
+  <img src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
+ </p>
+ 
 ### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+<p>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></img>
+ </p>
+ 
+<h2>Other Tools</h2>
 
-</td>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
+ <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></img> 
 
- <td valign="top" width="25%">
+<h2>Core skills</h2>
 
-### Other frameworks  
-<div align="center">
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-</div>
-
-</td>
-<td valign="top" width="25%">
-
-### Other skills  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
- <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/canva-logo-circle-freelogovectors.net_.png" alt="mysql" width="40" height="40"/> </a> </p>
-</div>
-
-</td>
-</tr>
-</table>  
+ * MVC Design pattern.
+ * Git version control system.
+ * User stories 
+ * Tasks implementation and organization(Trello).
+ * Communication and self-evaluation.
 
 ## Github Stats LolaGM
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LolaGM" alt="LolaGM" /></a> </p>
