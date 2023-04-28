@@ -7,11 +7,19 @@
 
 
 - 🔭 I finished an online **Full Stack Web Developer** Bootcamp for women.
-- 💻 At the same time, I'm studying on an online Bootcamp called OpenBootcamp
-- 📄  Also I'm doing two different online courses on Coursera:Front End Development and UX/UI Design
 - 📖 Worked with **Agile Methodology with SCRUM**
 - 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM)
 - ⚡ Fun fact I am a superfan of Spanish food
+- 📄  I'm doing two different online courses on:Front End Development by FreeCodeCamp and Udemy
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+   <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src= "https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp logo"></img>
+   </a>
+   <a href="https://www.udemy.com/course/angular-fernando-herrera" target="_blank">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy logo"></img>
+   </a>
+</div>
 
 ## Connect with me  
 <div align="left">
