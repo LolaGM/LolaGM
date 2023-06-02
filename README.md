@@ -45,6 +45,8 @@
  <p>
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img> 
   <img src= "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></img>
+  </p>
+  <p>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
  </p>
@@ -86,7 +88,7 @@
    </a>  
 </div>
 <ul>
-   <li>Responsive Web Design:  HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design</li>
+   <li>Responsive Web Design</li>
    <li>JavaScript Algorithms and Data Structures</li>   
 </ul>
 
