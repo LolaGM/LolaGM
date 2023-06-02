@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolagm&label=Profile%20views&color=0e75b6&style=flat" alt="lolagm" /> </p>
 
-
 - 🔭 I finished an online **Full Stack Web Developer** Bootcamp for women.
 - 📖 Worked with **Agile Methodology with SCRUM**
 - 👨‍💻 All of my projects are available at [https://github.com/LolaGM](https://github.com/LolaGM)
 - ⚡ Fun fact I am a superfan of Spanish food
-- 📄  I'm doing two different online courses on:Front End Development by FreeCodeCamp and Udemy
+- 📄  I'm doing an online course on ANGULAR JS framework by Udemy at the moment
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-   <a href="https://www.freecodecamp.org/learn" target="_blank">
-      <img src= "https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp logo"></img>
-   </a>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">   
    <a href="https://www.udemy.com/course/angular-fernando-herrera" target="_blank">
       <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy logo"></img>
    </a>
@@ -40,10 +36,10 @@
  <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
  </p>
  
- <p>
+ <p align="left">
+   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"></img>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></img>
   <img src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></img>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></img>
  </p>
  
  <p>
@@ -63,11 +59,17 @@
  
 <h2>Other Tools</h2>
 
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
+<p align="left">
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img>  
+</p>
+
+<p align="left">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></img>
- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
- <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></img> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></img>
+</p>
 
 <h2>Core skills</h2>
 
@@ -77,12 +79,22 @@
  * Tasks implementation and organization(Trello).
  * Communication and self-evaluation.
 
+<h2>Certifications</h2>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+   <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src= "https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp logo"></img>
+   </a>  
+</div>
+<ul>
+   <li>Responsive Web Design:  HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design</li>
+   <li>JavaScript Algorithms and Data Structures</li>   
+</ul>
+
 ## Github Stats LolaGM
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LolaGM" alt="LolaGM" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LolaGM&hide_border=true&border_radius=4.6" alt="LolaGM stats" /></p>
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LolaGM&&style=flat-square" align="center" />
-</div>  
+</div>
