@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Lola Garcia</h1>
-<h3 align="center">Full Stack Web Developer Junior from Málaga (Spain)</h3>
+<h3 align="center">Front-end web developer Junior from Málaga (Spain)</h3>
 
 <p align="center"> <img width="20%" src="https://user-images.githubusercontent.com/116545851/218501169-142bd5b8-10e5-47c2-85ec-6e107fac16d2.jpg" alt="lolaGM profile picture" /> </p>
 
